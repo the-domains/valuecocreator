@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ValueCoCreator]]></title>
         <description><![CDATA[ValueCoCreator]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/valuecocreator/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 23:12:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 23:13:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/valuecocreator/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We transfer sales organisation from Selling to Co-Creating Value]]></title>
+            <description><![CDATA[<article><h1>We transfer sales organisation from Selling to Co-Creating Value</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/704bce66b25db165094f94661ca925fafc4dbec6.png"></article>]]></description>
+            <link>https://thegrid.ai/valuecocreator/we-transfer-sales-organisation-from-selling-to-co-creating-v/index.html</link>
+            <guid isPermaLink="false">eccddb41-752d-414d-bb58-39dce9a69677</guid>
+            <pubDate>Fri, 12 Feb 2016 23:13:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Step into the shoes of a Co-Creator and play our Co-Creation game]]></title>
             <description><![CDATA[<article><h1>Step into the shoes of a Co-Creator and play our Co-Creation game</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36f9cefc1f79110bed0181a5fc09b5155cc0fbfb.png"></article>]]></description>
-            <link>undefinedstep-into-the-shoes-of-a-co-creator-and-play-our-co-creation/index.html</link>
+            <link>https://thegrid.ai/valuecocreator/step-into-the-shoes-of-a-co-creator-and-play-our-co-creation/index.html</link>
             <guid isPermaLink="false">5b09d756-8fa1-4c0c-a758-4c2aaa0731cb</guid>
             <pubDate>Fri, 12 Feb 2016 23:12:49 GMT</pubDate>
         </item>
