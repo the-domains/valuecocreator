@@ -1,0 +1,28 @@
+name: ValueCoCreator
+favicon: null
+layout_spectrum: 0.5685975481756032
+typography_spectrum: 0.9112159125506878
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6825283539947122
+  lightness: 0.04498902731575072
+  saturation: 0.16303645190782845
+  rhythmicContrast: 0.9665911013726145
+purpose: []
