@@ -1,6 +1,6 @@
 name: ValueCoCreator
 favicon: null
-layout_spectrum: 0.63523
+layout_spectrum: 0.73806
 typography_spectrum: 0.97412
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#20190f'
-    - '#f1ece6'
-    - '#999288'
-    - '#f8af2e'
-    - '#08b3e0'
-  brandStrength: 0.5625
+    - '#2e646e'
+    - '#4ea9bb'
+    - '#55b8cb'
+    - '#4698a6'
+    - '#3b818d'
+  brandStrength: 0.1875
   lightness: 0.5
   saturation: 0.5625
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose: []
